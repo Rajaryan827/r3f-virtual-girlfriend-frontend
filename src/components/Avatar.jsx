@@ -23,12 +23,12 @@ const facialExpressions = {
     mouthPressRight: 0.41000000000000003,
   },
   funnyFace: {
-   "eyeSquintLeft": 0.7000000000000001,
-  "eyeSquintRight": 0.87,
-  "mouthLowerDownLeft": 1,
-  "mouthDimpleLeft": 1,
-  "mouthSmileLeft": 0.31,
-  "mouthSmileRight": 0.32,
+   eyeSquintLeft: 0.7000000000000001,
+   eyeSquintRight: 0.87,
+  mouthLowerDownLeft: 1,
+  mouthDimpleLeft: 1,
+  mouthSmileLeft: 0.31,
+  mouthSmileRight: 0.32,
   },
   sad: {
     mouthFrownLeft: 1,
