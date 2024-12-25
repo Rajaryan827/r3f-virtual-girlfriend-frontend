@@ -22,6 +22,13 @@ const facialExpressions = {
     mouthPressLeft: 0.61,
     mouthPressRight: 0.41000000000000003,
   },
+   kiss: {
+    viseme_U: 1,
+    browInnerUp: 0.76,
+    browOuterUpLeft: 0.17,
+    mouthPucker: 1,
+    mouthShrugLower: 1,
+  },
   funnyFace: {
    eyeSquintLeft: 0.7000000000000001,
    eyeSquintRight: 0.87,
